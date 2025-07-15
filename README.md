@@ -53,7 +53,7 @@ Address field
 Price field
 Link field
 
-(if you're manually testing it you will have to run data_scraper.py then scrape the website of zillow, Afterwards you'll have the scraped Adresses, Prices and Link from the zillow site in the format of a list called 'listings, just copy that from the terminal and paste it in form_filler's 'listings' and to fill the form, run the program, 'form
+(if you're manually testing it you will have to run data_scraper.py then scrape the website of zillow, Afterwards you'll have the scraped Adresses, Prices and Link from the zillow site in the format of a list called 'listings', just copy that from the terminal and paste it in form_filler's 'listings' and to fill the form, run the program, 'form
 -filler.py'.)
 
 Submits each entry individually.
